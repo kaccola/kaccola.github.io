@@ -32,7 +32,7 @@ round-avatar: true
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
-
+![](https://raw.githubusercontent.com/kaccola/kaccola.github.io/master/assets/img/IMG_AcousticNightSurvey.Seattlewaterfront.jpg)
 
 # --- Footer social media links --- #
 
@@ -94,7 +94,7 @@ feed_show_tags: true
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
-
+#hexcode for colors
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
